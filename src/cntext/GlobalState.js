@@ -5,7 +5,7 @@ const initialState = {
     transaction: [
 
         { id: 1, text: 'Salary', amount: 1000 },
-        { id: 2, text: 'Camera', amount: -800 }
+        { id: 2, text: 'Camera', amount: -400 }
     ]
 }
 
