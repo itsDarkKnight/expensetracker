@@ -30,7 +30,7 @@ function AddTxn() {
         <div className="form-control">
           <label htmlfor="amount"
             >Amount <br />
-            (negative - expense, positive - income)</label>
+            ( - expense,  + income)</label>
           <input type="number" value={amount} onChange={(e)=>setamount(e.target.value)} placeholder="Enter amount..." />
         </div>
         <button className="btn">Add transaction</button>
