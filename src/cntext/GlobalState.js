@@ -4,12 +4,9 @@ import Appreducer from "./Appreducer";
 const initialState = {
     transaction: [
 
-<<<<<<< HEAD
         { id: 1, text: 'Salary', amount: 1000 },
-        { id: 2, text: 'Camera', amount: -400 }
-=======
+        { id: 2, text: 'Camera', amount: -300 }
        
->>>>>>> f7d6f0cb0dd4146c7c6aefa5bd67ac80c9916e34
     ]
 }
 
