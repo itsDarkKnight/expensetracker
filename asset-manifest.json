@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itsDarkKnight/expensetracker/static/css/main.77567ed3.css",
+    "main.js": "/itsDarkKnight/expensetracker/static/js/main.26c53138.js",
+    "index.html": "/itsDarkKnight/expensetracker/index.html",
+    "main.77567ed3.css.map": "/itsDarkKnight/expensetracker/static/css/main.77567ed3.css.map",
+    "main.26c53138.js.map": "/itsDarkKnight/expensetracker/static/js/main.26c53138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77567ed3.css",
+    "static/js/main.26c53138.js"
+  ]
+}
